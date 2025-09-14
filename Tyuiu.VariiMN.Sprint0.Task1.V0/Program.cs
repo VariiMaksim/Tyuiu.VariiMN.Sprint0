@@ -1,4 +1,4 @@
-﻿namespace Tyuiu.VAriiMN.Sprint0.Task1.V0
+﻿namespace Tyuiu.VariiMN.Sprint0.Task1.V0
 {
     class Program
     {
