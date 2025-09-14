@@ -11,6 +11,7 @@ namespace Tyuiu.VariiMN.Sprint0.Task4.V0
             Console.WriteLine(DataService.Multiplication(10, 10));
             Console.WriteLine(DataService.Division(5, 5));
 
+
             Console.ReadKey();
         }
     }
